@@ -77,6 +77,11 @@ ul > li {
   width: 660px;
 }
 
+@media screen and (max-width: 390px) {
+  #welcome .imgbox {
+    margin-top: 30px;
+  }
+}
 #aboutus {
   padding: 40px 0;
 }
