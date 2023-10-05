@@ -33,6 +33,15 @@ ul > li {
 #carefor .imgbox {
   width: 500px;
 }
+@media screen and (max-width: 390px) {
+  #carefor .textbox {
+    padding: 0 50px;
+    text-align: center;
+  }
+  #carefor .textbox h4 {
+    margin: 20px 0;
+  }
+}
 
 #welcome {
   padding: 40px 0;
