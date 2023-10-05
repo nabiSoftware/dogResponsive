@@ -33,6 +33,7 @@ ul > li {
 #carefor .imgbox {
   width: 500px;
 }
+
 @media screen and (max-width: 390px) {
   #carefor .textbox {
     padding: 0 50px;
@@ -42,7 +43,6 @@ ul > li {
     margin: 20px 0;
   }
 }
-
 #welcome {
   padding: 40px 0;
 }
@@ -343,4 +343,10 @@ ul > li {
 }
 #services .wid {
   width: 460px;
+}
+
+@media screen and (max-width: 390px) {
+  #services .box, #services .textbox {
+    text-align: center;
+  }
 }/*# sourceMappingURL=style.css.map */
