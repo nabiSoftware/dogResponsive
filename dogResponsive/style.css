@@ -331,4 +331,10 @@ ul > li {
 }
 #services .box > .icon {
   font-size: 70px;
+}
+
+@media screen and (max-width: 767px) {
+  #services {
+    text-align: center;
+  }
 }/*# sourceMappingURL=style.css.map */
