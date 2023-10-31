@@ -275,6 +275,14 @@ ul > li {
   margin: 0 10px 10px 0;
 }
 
+@media screen and (max-width: 767px) {
+  #questions .textbox {
+    text-align: center;
+  }
+  #questions .textbox .icon {
+    padding: 15px;
+  }
+}
 #dogger .textbox {
   margin: 0 20px;
 }
