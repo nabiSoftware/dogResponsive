@@ -76,15 +76,7 @@ ul > li {
   background: #a2c0be;
   color: white;
 }
-#welcome .wid {
-  width: 660px;
-}
 
-@media screen and (max-width: 390px) {
-  #welcome .imgbox {
-    margin-top: 30px;
-  }
-}
 #aboutus {
   padding: 40px 0;
 }
@@ -163,27 +155,21 @@ ul > li {
   margin: 15px 5px 60px 0;
   font-size: 11px;
 }
-#ourtrainers .wid {
-  width: 460px;
-}
 
 #pricing {
   padding: 40px 0;
 }
-#pricing .wid {
-  width: 500px;
-}
-#pricing .wid .icon {
+#pricing .textbox .icon {
   color: #a2c0be;
 }
-#pricing .wid .icon, #pricing .wid h1 {
+#pricing .textbox .icon, #pricing .textbox h1 {
   font-size: 25px;
 }
-#pricing .wid h1 {
+#pricing .textbox h1 {
   font-weight: 700;
   margin: 20px 0 10px;
 }
-#pricing .wid h5 {
+#pricing .textbox h5 {
   margin: 0 0 40px;
   color: #9c9a9a;
   line-height: 1.5;
@@ -280,9 +266,6 @@ ul > li {
   width: 500px;
   height: 300px;
 }
-#questions .wid {
-  width: 540px;
-}
 
 #dogger {
   padding: 40px 0;
@@ -321,9 +304,6 @@ ul > li {
   width: 400px;
   height: 200px;
 }
-#dogger .wid {
-  width: 464px;
-}
 
 #services {
   padding: 40px 0;
@@ -348,13 +328,4 @@ ul > li {
 }
 #services .box > .icon {
   font-size: 70px;
-}
-#services .wid {
-  width: 460px;
-}
-
-@media screen and (min-width: 300px) {
-  #services .box, #services .textbox {
-    text-align: center;
-  }
 }/*# sourceMappingURL=style.css.map */
