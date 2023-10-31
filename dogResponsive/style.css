@@ -34,13 +34,16 @@ ul > li {
   width: 500px;
 }
 
-@media screen and (min-width: 300px) {
+@media screen and (max-width: 767px) {
   #carefor .textbox {
-    padding: 0 50px;
+    padding: 0;
     text-align: center;
   }
+  #carefor .textbox h1 {
+    font-size: 40px;
+  }
   #carefor .textbox h4 {
-    margin: 20px 0;
+    margin: 20px 0 40px 0;
   }
 }
 #welcome {
