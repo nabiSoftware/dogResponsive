@@ -251,6 +251,9 @@ ul > li {
   margin: 0 10px 10px 0;
 }
 
+#dogger .textbox {
+  margin: 0 20px;
+}
 #dogger .textbox .icon {
   color: #a2c0be;
   font-size: 30px;
@@ -261,7 +264,7 @@ ul > li {
   margin: 20px 0 10px;
 }
 #dogger .textbox h5 {
-  margin: 0 0 30px;
+  margin: 0 0 40px;
 }
 #dogger .textbox h5, #dogger .textbox p {
   color: #616161;
@@ -277,10 +280,6 @@ ul > li {
 }
 #dogger .textbox h4 {
   margin: 20px 0 0;
-}
-#dogger .imgbox {
-  width: 400px;
-  height: 200px;
 }
 
 #services .textbox .icon {
