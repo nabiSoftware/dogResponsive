@@ -88,6 +88,9 @@ ul > li {
     margin-bottom: 30px;
   }
 }
+#aboutus .textbox {
+  margin-bottom: 25px;
+}
 #aboutus .textbox .icon {
   color: #a2c0be;
   font-size: 30px;
@@ -122,9 +125,6 @@ ul > li {
 }
 #aboutus .textbox h4 {
   margin: 0 0 0 15px;
-}
-#aboutus .imgbox {
-  width: 450px;
 }
 
 #ourtrainers {
