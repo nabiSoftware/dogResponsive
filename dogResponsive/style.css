@@ -127,6 +127,11 @@ ul > li {
   margin: 0 0 0 15px;
 }
 
+@media screen and (max-width: 767px) {
+  #aboutus .textbox {
+    text-align: center;
+  }
+}
 #ourtrainers {
   background-color: #a2c0be;
 }
