@@ -16,7 +16,6 @@ ul > li {
 }
 
 #carefor {
-  padding: 40px 0;
   background-color: #f8f9fa;
 }
 #carefor .textbox {
@@ -50,12 +49,6 @@ ul > li {
     margin: 20px 0 40px 0;
   }
 }
-#welcome {
-  padding: 40px 0;
-}
-#welcome .textbox {
-  padding: 70px;
-}
 #welcome .textbox .icon {
   color: #a2c0be;
   font-size: 30px;
@@ -81,12 +74,6 @@ ul > li {
   color: white;
 }
 
-#aboutus {
-  padding: 40px 0;
-}
-#aboutus .textbox {
-  padding: 0 60px;
-}
 #aboutus .textbox .icon {
   color: #a2c0be;
   font-size: 30px;
@@ -127,7 +114,6 @@ ul > li {
 }
 
 #ourtrainers {
-  padding: 40px 0;
   background-color: #a2c0be;
 }
 #ourtrainers .textbox .icon {
@@ -160,9 +146,6 @@ ul > li {
   font-size: 11px;
 }
 
-#pricing {
-  padding: 40px 0;
-}
 #pricing .textbox .icon {
   color: #a2c0be;
 }
@@ -213,12 +196,6 @@ ul > li {
   background-color: #a2c0be;
 }
 
-#questions {
-  padding: 40px 0;
-}
-#questions .textbox {
-  padding: 40px;
-}
 #questions .textbox .icon {
   color: #a2c0be;
   font-size: 30px;
@@ -271,12 +248,6 @@ ul > li {
   height: 300px;
 }
 
-#dogger {
-  padding: 40px 0;
-}
-#dogger .textbox {
-  margin: 0 20px;
-}
 #dogger .textbox .icon {
   color: #a2c0be;
   font-size: 30px;
@@ -309,9 +280,6 @@ ul > li {
   height: 200px;
 }
 
-#services {
-  padding: 40px 0;
-}
 #services .textbox .icon {
   color: #a2c0be;
   font-size: 30px;
