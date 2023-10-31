@@ -3,6 +3,10 @@ body {
   font-weight: 500;
 }
 
+section {
+  padding: 100px 0;
+}
+
 .imgbox img {
   width: 100%;
 }
