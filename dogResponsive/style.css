@@ -169,7 +169,7 @@ ul > li {
   color: #a2c0be;
 }
 #pricing .textbox .icon, #pricing .textbox h1 {
-  font-size: 25px;
+  font-size: 35px;
 }
 #pricing .textbox h1 {
   font-weight: 700;
@@ -215,6 +215,11 @@ ul > li {
   background-color: #a2c0be;
 }
 
+@media screen and (max-width: 767px) {
+  #pricing .box {
+    padding: 20px;
+  }
+}
 #questions .textbox .icon {
   color: #a2c0be;
   font-size: 30px;
